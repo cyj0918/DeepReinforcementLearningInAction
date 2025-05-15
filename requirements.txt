@@ -32,10 +32,10 @@ urllib3==2.2.1
 wcwidth==0.2.13
 notebook==7.1.2
 scikit-image==0.23.1
-gymnasium[atari]==0.29.1
+gymnasium[atari]
 gymnasium[accept-rom-license]==0.29.1
 gym-super-mario-bros==7.4.0
-magent2==0.3.2
+# magent2==0.3.2
 pettingzoo==1.24.3
 torchvision==0.17.2
 gym-minigrid==1.2.2
